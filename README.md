@@ -1,6 +1,6 @@
-### this code represent a library system and this library has members and books and only members can borrow books and return it knowing that any book is only available for less than 14 days to any member and each member is only able to borrow 5 copies of books  
+### this code represent a library system and this library has members and books and only members can borrow books and return it knowing that any book is only available for less than 14 days to any member and each member is only able to borrow 5 copies of books.
 
-#### We have used 8 main functions in main class 
+#### We have used 8 main functions in main class:
 
 1. adding books: to add books to the library
 2. adding members: to add members to the library
